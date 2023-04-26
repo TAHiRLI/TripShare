@@ -1,0 +1,22 @@
+body {
+  background-color: aqua;
+}
+
+.horizontal-ads img {
+  width: 100%;
+  aspect-ratio: 8/1;
+  -o-object-fit: fill;
+     object-fit: fill;
+}
+
+#trips_section .trips_trip {
+  margin: 10px 0;
+  background-color: red;
+}
+#trips_section .trips_trip_image img {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: 15px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=main.css.map */

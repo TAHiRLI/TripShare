@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+
+nav{
+    .nav_logo{
+        img{
+            aspect-ratio: 16/9;
+            width: 100px;
+            object-fit: cover;
+         mix-blend-mode: color-burn;
+        }
+    }
+}
+
+footer{
+    .footer_logo{
+        img{
+            aspect-ratio: 16/9;
+            width: 180px;
+            object-fit: cover;
+            mix-blend-mode: color-burn;
+        }
+    }
+  
+
+}
+
